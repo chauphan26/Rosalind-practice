@@ -1,5 +1,5 @@
 f = open('rosalind_gc.txt', 'r')
-# id_max = 'a'
+# id:ia_max = 'a'
 def my_function(gc_content):
     g_content = 0
     c_content = 0
